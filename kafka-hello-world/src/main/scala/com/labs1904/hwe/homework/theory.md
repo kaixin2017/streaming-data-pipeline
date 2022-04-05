@@ -48,4 +48,4 @@ No
 * Helpful resource [Brokers and Replication factors](https://youtu.be/ZOU7PJWZU9w)
 a replication factor of 3 means each topic and each Partition  are distributed across 3 brokers
 #### What was the most fascinating aspect of Kafka to you while learning? 
-how it order events and keep it scal
+how it order events and keep it scalable

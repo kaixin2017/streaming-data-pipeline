@@ -15,7 +15,9 @@ object KafkaHomework {
 
     //TODO: If these are given in class, change them so that you can run a test. If not, don't worry about this step
   val BootstrapServer = "change-me"
-  val Topic: String = "change-me"
+  val Topic: String = "hwe-kafka-connection-test"
+  val username: String = "hwe"
+  val password: String = "1904labs"
 
   implicit val formats: DefaultFormats.type = DefaultFormats
 
